@@ -1,1 +1,4 @@
-W
+In this project, I have used Random forest classifier, Lightgbm, and XGBoost to identify benign as well as different types of 
+malicious websites like defacement, phishing, and malware websites.
+Considering precision, f1-score, and recall, the accuracy of the Random forest classifier is the highest. Which is about 98.6%
+Although each algorithm has its own dominant features, hostname length and length of directory are the common impactful features.
